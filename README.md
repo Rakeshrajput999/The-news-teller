@@ -1,6 +1,6 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
-### [Live Site](https://alan-news-app.netlify.app/)
+### [Live Site](https://jovial-chandrasekhar-0d99e3.netlify.app/)
 
 ![Voice Controlled React News Application]
 
